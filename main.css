@@ -4,5 +4,6 @@ body {
 }
 
 #canvas {
+  background-color: #F5f5f5;
   border: 5px solid purple;
 }
