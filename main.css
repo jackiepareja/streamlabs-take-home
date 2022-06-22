@@ -1,9 +1,11 @@
 body {
   margin: 0;
+  padding: 0;
   overflow: hidden;
+  position: relative;
 }
 
 #canvas {
-  background-color: #F5f5f5;
-  border: 5px solid purple;
+  background-color: #282a36;
+  width: 100%;
 }
